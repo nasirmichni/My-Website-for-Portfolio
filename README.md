@@ -2,3 +2,4 @@ Simple Website for portfolio where you can see my recent work/practice. I used b
 In addition i used transition for about section where it typed automatically till end. 
 I hope you appreciate my little work. 
 Happy codding!
+Visit: https://nasirmichni.github.io/My-Website-for-Portfolio/
