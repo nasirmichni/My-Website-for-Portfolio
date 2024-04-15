@@ -1,0 +1,10 @@
+
+
+.skills-section ul li {
+    line-height: 5; 
+    margin-bottom: 10px; 
+  }
+ 
+  .about-title:hover {
+    color: blue; /* Change color on hover, adjust as needed */
+  }
